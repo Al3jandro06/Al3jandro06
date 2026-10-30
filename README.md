@@ -1,5 +1,6 @@
-Popovici Alexandru
-CS student · Babeș-Bolyai University, Cluj-Napoca · Math-Informatics
+# Popovici Alexandru-Nicolae (a.k.a. Alejandro)
+
+Math-CS student · Babeș-Bolyai University, Cluj-Napoca 
 
 I study mathematics and computer science, with an interest in
 the intersection of the two — algorithms, formal methods, and computation.
