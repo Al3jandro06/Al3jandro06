@@ -9,8 +9,8 @@ the intersection of the two — algorithms, formal methods, and computation.
 
 ### currently studying
 
-'Complex Analysis' 'Differential Equations' 'Differential Geometry of Curves and Surfaces' 'Advanced Methods of Programming (Java)'
-'Architecture of computer systems and assembly language' 'Database design'
+`Complex Analysis` `Differential Equations` `Differential Geometry of Curves and Surfaces` `Advanced Methods of Programming (Java)`
+`Architecture of computer systems and assembly language` `Database design`
 
 ---
 
